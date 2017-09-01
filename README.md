@@ -1,4 +1,4 @@
-M1
+<b>M1</b>
 
 Alex Stetson
 
